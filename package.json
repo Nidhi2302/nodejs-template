@@ -1,0 +1,26 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "Demo SA Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SA",
+  "license": "ISC",
+  "dependencies": {
+    "apn": "^2.1.2",
+    "body-parser": "^1.15.2",
+    "dotenv": "^2.0.0",
+    "express": "^4.8.2",
+    "fibers": "^1.0.13",
+    "jm-ez-l10n": "^1.0.0",
+    "jm-ez-mysql": "^1.0.3",
+    "js-md5": "^0.4.1",
+    "jwt-simple": "^0.3.0",
+    "lodash": "^4.14.2",
+    "mysql": "^2.11.1",
+    "q": "^1.4.1",
+    "stripe": "^4.14.0"
+  }
+}

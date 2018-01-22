@@ -1,0 +1,19 @@
+{
+    "NOT_VALID_USER": "User does not exist",
+    "NOT_VALID_EMAIL_PASSWORD": "Username and password is not valid",
+    "NO_RECORD_FOUND":"No Record Found",
+    "SUCCESS" : "SUCCESS",
+    "NOT_AUTHORIZED" : "You Are Not Authorized",
+    "INVALID_REQUEST" : "Request Is Not Valid",
+    "USERNAME_REQUIRE" : "User Name Required",
+    "USER_PASSWORD_REQUIRE" : "Password Required",
+    "STRIPE_CRADIT_CARD":"Success! Card added successfully.",
+    "CARD_INVALID":"Customer/Card is invalid.",
+    "ACCOUNT_INVALID":"Account/Card is invalid.",
+    "DEBIT_CARD_ADDED":"Debit card added successfully",
+    "TOKEN_REQUIRE" : "Token Required",
+    "FIRSTNAME_REQUIRE" : "FirstName Required",
+    "LASTNAME_REQUIRE" : "LastName Required",
+    "IP_REQUIRE" : "Ip Required",
+    "DOB_REQUIRE" : "Date of birth Required"
+}
